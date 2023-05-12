@@ -32,6 +32,26 @@ As a programmer, it's crucial to continuously evaluate your coding practices and
 
 [Q11. How can you effectively name variables, functions, and classes?](#how_can_you_effectively_name_variables_functions_and_classes)
 
+[Q12. Which of the following is NOT a principle of clean code?](#which_of_the_following_is_not_a_principle_of_clean_code)
+
+[Q13. Which of the following is a benefit of writing clean code?](#which_of_the_following_is_a_benefit_of_writing_clean_code)
+
+[Q14. Which of the following is an important practice for writing clean code?](#which_of_the_following_is_an_important_practice_for_writing_clean_code)
+
+[Q15. Which of the following is an example of a code smell?](#which_of_the_following_is_an_example_of_a_code_smell)
+
+[Q16. Which of the following is NOT an aspect of clean code?](#which_of_the_following_is_not_an_aspect_of_clean_code)
+
+[Q17. Which of the following is a principle of the SOLID design principles?](#which_of_the_following_is_a_principle_of_the_solid_design_principles)
+
+[Q18. Which of the following is NOT a best practice for writing clean code?](#which_of_the_following_is_not_a_best_practice_for_writing_clean_code)
+
+[Q19. Which of the following is an example of a code refactoring technique?](#which_of_the_following_is_an_example_of_a_code_refactoring_technique)
+
+[Q20. Which of the following is an important aspect of writing clean code in a team environment?](#which_of_the_following_is_an_important_aspect_of_writing_clean_code_in_a_team_environment)
+
+[Q21. Which of the following is a benefit of using automated testing in clean code development?](#which_of_the_following_is_a_benefit_of_using_automated_testing_in_clean_code_development)
+
 ---
 
 <div id="what_is_the_importance_of_writing_clean_code"  />
@@ -132,3 +152,93 @@ As a programmer, it's crucial to continuously evaluate your coding practices and
 - [x] Avoid using naming conventions to keep the code concise.
 - [ ] Use slang names to keep code user friendly.
 - [ ] Use short name with descriptive comment.
+
+<div id="which_of_the_following_is_not_a_principle_of_clean_code"  />
+
+#### Q12. Which of the following is NOT a principle of clean code?
+
+- [ ] Keep it simple.
+- [x] Minimize the number of comments.
+- [ ] Name things clearly.
+- [ ] Write tests.
+
+<div id="which_of_the_following_is_a_benefit_of_writing_clean_code"  />
+
+#### Q13. Which of the following is a benefit of writing clean code?
+
+- [x] It makes debugging faster and easier.
+- [ ] It increases development time.
+- [ ] It increases the number of bugs.
+- [ ] It makes code less readable.
+
+<div id="which_of_the_following_is_an_important_practice_for_writing_clean_code"  />
+
+#### Q14. Which of the following is an important practice for writing clean code?
+
+- [x] Using descriptive variable names.
+- [ ] Overusing global variables.
+- [ ] Avoiding testing code.
+- [ ] Hardcoding values into the code.
+
+<div id="which_of_the_following_is_an_example_of_a_code_smell"  />
+
+#### Q15. Which of the following is an example of a code smell?
+
+- [ ] A function with a single responsibility.
+- [ ] Comments explaining what the code does.
+- [x] Duplication of code in multiple places.
+- [ ] Short and concise function names.
+
+<div id="which_of_the_following_is_not_an_aspect_of_clean_code"  />
+
+#### Q16. Which of the following is NOT an aspect of clean code?
+
+- [ ] Consistency.
+- [ ] Simplicity.
+- [x] Speed.
+- [ ] Clarity.
+
+<div id="which_of_the_following_is_a_principle_of_the_solid_design_principles"  />
+
+#### Q17. Which of the following is a principle of the SOLID design principles?
+
+- [x] Separation of concerns.
+- [ ] Avoiding unit tests.
+- [ ] Hardcoding values.
+- [ ] Using global variables.
+
+<div id="which_of_the_following_is_not_a_best_practice_for_writing_clean_code"  />
+
+#### Q18. Which of the following is NOT a best practice for writing clean code?
+
+- [x] Use long and complex function names.
+- [ ] Keep functions small and focused.
+- [ ] Avoid using nested code blocks.
+- [ ] Use consistent formatting.
+
+<div id="which_of_the_following_is_an_example_of_a_code_refactoring_technique"  />
+
+#### Q19. Which of the following is an example of a code refactoring technique?
+
+- [ ] Adding more comments to the code.
+- [x] Removing redundant code.
+- [ ] Using shorter variable names.
+- [ ] Hardcoding values into the code.
+
+<div id="which_of_the_following_is_an_important_aspect_of_writing_clean_code_in_a_team_environment"  />
+
+#### Q20. Which of the following is an important aspect of writing clean code in a team environment?
+
+- [x] Consistent formatting.
+- [ ] Using global variables.
+- [ ] Avoiding testing code.
+- [ ] Writing long and complex functions.
+
+<div id="which_of_the_following_is_a_benefit_of_using_automated_testing_in_clean_code_development"  />
+
+#### Q21. Which of the following is a benefit of using automated testing in clean code development?
+
+- [ ] It increases the number of bugs.
+- [ ] It makes debugging more difficult.
+- [x] It improves code quality.
+- [ ] It slows down development time.
